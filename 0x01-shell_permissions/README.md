@@ -4,3 +4,5 @@ print all groups /2-groups
 change owner of fils /3-new_owner
 create new file /4-empty
 excute permission /5-execute
+multiple permission /6-multiple_permissions
+everybody /7-everybody
