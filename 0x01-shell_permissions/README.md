@@ -13,3 +13,4 @@ directory permission /11-directories_permissions
 dir permission /12-directory_permissions
 change group /13-change_group
 chnage owner and group /100-change_owner_and_group
+symbolic link /101-symbolic_link_permissions
